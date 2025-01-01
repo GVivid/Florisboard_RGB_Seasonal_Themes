@@ -9,11 +9,13 @@ I decided to make a few themes for the [Florisboard](https://github.com/florisbo
 ## Manual Install
 - Download the .flex file.
 - Open the FlorisBoard app.
-- Click Addons & Extensions.
-- Click Import.
+- Tap Theme.
+- Tap Manage Installed Themes.
+- Tap import.
 - Select the downloaded .flex file.
 - After making sure you can see the themes, click Import.
-- At the main menu, click Theme, and choose the theme you want to use.
+- The themes should now be visible in your day and night themes (the place you normally change your theme).
+- Select your favorite, and you are done! :)
 
 ### Winter
 <details><summary>Images of Winter Theme</summary>
