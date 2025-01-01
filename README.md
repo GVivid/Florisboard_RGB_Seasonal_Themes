@@ -1,6 +1,6 @@
 # Florisboard RGB Seasonal Themes
 
-I decided to make a few themes for the Florisboard keyboard a while ago, and now I have decided to publish them.
+I decided to make a few themes for the [Florisboard](https://github.com/florisboard/florisboard) keyboard a while ago, and now I have decided to publish them.
 
 ## Manual Install
 - Download the .flex file.
